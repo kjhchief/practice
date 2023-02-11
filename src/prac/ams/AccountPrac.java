@@ -6,6 +6,7 @@ package prac.ams;
  */
 //클래스에 선언하는 접근제한자 : 생략, public
 public class AccountPrac {
+	// 깃허브 테스토다
 	// 은행이름 상수
 	public final static String BANK_NAME = "후니뱅크";
 
